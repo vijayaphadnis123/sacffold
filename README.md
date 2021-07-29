@@ -1,0 +1,1 @@
+[![Python application test with Github Actions](https://github.com/vijayaphadnis123/sacffold/actions/workflows/pythoncode.yml/badge.svg)](https://github.com/vijayaphadnis123/sacffold/actions/workflows/pythoncode.yml)
